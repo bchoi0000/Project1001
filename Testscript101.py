@@ -19,4 +19,4 @@ class child2class(testclass):
         pass
 
 #obj1 = testclass(1,2)
-obj2 = childclass(10,40)
+obj2 = childclass(10,50)
